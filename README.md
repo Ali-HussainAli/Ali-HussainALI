@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80"/>
 
-## 👋 أهلاً، أنا علي حسين علي
+## 👋 أهلاً، أنا علي حسين
 
 💻 مبتدئ في البرمجة  
 ⚙️ مهتم بـ C++  
